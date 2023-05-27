@@ -93,3 +93,5 @@ VERIFY         Tells Windows whether to verify that your files are written
 VOL            Displays a disk volume label and serial number.
 XCOPY          Copies files and directory trees.
 WMIC           Displays WMI information inside interactive command shell.
+
+// Revising the CMD cammand list chapter 27th May 2023

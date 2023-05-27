@@ -30,6 +30,21 @@ public class Operators{
 				System.out.println("Division = " + div);
 				
 			}
+			
+			// Java code to illustrate Subtraction operator
+			{
+				// initializing variables
+				int c, d ; int result =0;
+				try (Scanner in = new Scanner(System.in)) {
+					{
+					c = in.nextInt();
+					d = in.nextInt();
+					}
+				}
+				result = c-d;
+				System.out.println(result);
+				
+			}
 	
 
 		}
